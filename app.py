@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.title ("LOC") 
+st.title ("La Otra Ciudad") 
 
 st.header ("En este espacio podrás obtener información de La Otra Ciudad")
 

@@ -5,6 +5,6 @@ st.title ("LOC")
 
 st.header ("En este espacio podrás obtener información de La Otra Ciudad")
 
-image= Image.open('LOC.pn')
+image= Image.open('LOC.png')
 st.image(image, caption="La Otra Ciudad, Logo")
 st.write("Colectivo de jóvenes, very well")
